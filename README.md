@@ -1,4 +1,5 @@
 # BookReviewClassification
+I started this project for my Data Mining Class SP17
 Classification based on whether or not the review's author finished the book
 First, I'll admit that:
   - the code could be more succint
